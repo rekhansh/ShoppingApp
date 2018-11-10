@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Navigation Drawer Titles-->
+    <string name="drawer_home">Home</string>
+    <string name="drawer_offers">Offers</string>
+    <string name="drawer_wish_list">WishList</string>
+    <string name="drawer_my_orders">My Orders</string>
+    <string name="drawer_help">Help</string>
+    <string name="drawer_about_us">About Us</string>
+    <string name="drawer_login">Log In</string>
+    <string name="drawer_logout">Log Out</string>
+    <string name="drawer_settings">Settings</string>
+
+    <!--Navigation Header-->
+    <string name="nav_header_user_description">User</string>
+    <string name="nav_header_guest">Guest</string>
+
+
+    <!--About Us Fragment-->
+    <string name="about_us_title">Shopping App</string>
+    <string name="about_us_details">This App is developed by RekhAnsh. Replace your own details.</string>
+
+
+    <string name="cart">Cart</string>
+
+    <string name="logout_msg">You will be logged out.</string>
+    <string name="logout_title">Are you Sure?</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+</resources>
